@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # TruthLens UI Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# TruthLens
+>>>>>>> 7356dce09ae3e772c5e59821cee6cc307c24f5dd
