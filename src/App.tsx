@@ -15,6 +15,7 @@ import { ProfileSettings } from './components/profile/profile-settings';
 import { ScamReportModal } from './components/scam-reporting/scam-report-modal';
 import { ScamReportHistory } from './components/scam-reporting/scam-report-history';
 import { ScamHeatmapDashboard } from './components/scam-reporting/scam-heatmap-dashboard';
+import { TestIcons } from './components/test-icons';
 import { supabase } from './utils/supabase/client';
 
 export default function App() {

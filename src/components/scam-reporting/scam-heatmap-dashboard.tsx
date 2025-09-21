@@ -4,7 +4,7 @@ import { Button } from '../ui/button';
 import { Checkbox } from '../ui/checkbox';
 import { Badge } from '../ui/badge';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../ui/select';
-import { MapPin, TrendingUp, Shield, Filter, Calendar, RotateCcw, TestTube } from 'lucide-react';
+import { MapPin, TrendingUp, Shield, Filter, Calendar, RotateCcw, TestTube, AlertTriangle } from 'lucide-react';
 import { GoogleMapsHeatmap } from '../maps/google-maps-heatmap';
 import { testGoogleMapsAPI, diagnoseGoogleMaps } from '../../utils/google-maps-test';
 import { toast } from 'sonner';
