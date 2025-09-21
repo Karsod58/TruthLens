@@ -57,5 +57,11 @@
     server: {
       port: 3000,
       open: true,
+      host: true, // Allow external connections
+    },
+    preview: {
+      port: process.env.PORT || 3000,
+      host: '0.0.0.0', // Bind to all interfaces for deployment
+      strictPort: true,
     },
   });
